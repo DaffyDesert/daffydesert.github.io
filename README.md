@@ -6,4 +6,6 @@
         - CV (cv.html)
         - Resume (resume.html)
         - Github projects (projects.html)
-- Yeah
+- Update linkedin summary to include website link
+- Update github bio
+- Update resume
